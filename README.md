@@ -1,6 +1,6 @@
-# fl_components
+# Este proyecto contiene la sección 6 de curso de flutter avanzado
 
-A new Flutter project.
+Este es el proyecto esta aprendizajes sacado de las clases del profesor Fernanod Herrera udemy.
 
 ## Getting Started
 
